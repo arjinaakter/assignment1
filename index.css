@@ -1,0 +1,145 @@
+.image{
+    background-image: url("Banner\ Image.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    
+    justify-content: center;
+    background-color: black;
+    height: 400px;
+    width: 1200px;
+    padding: 100px;
+    margin: 80px;
+    /* border-radius: 50%; */
+    /* margin-right: 100px; */
+
+}
+.newYear{
+    justify-content: center;
+}
+.text{
+    text-align: center;
+    color: red;
+}
+.Photo{
+   justify-content: center;
+   text-align: center;
+    padding: 2px;
+}
+.party{
+    text-align: center;
+    padding: 50px;
+
+}
+ .party h1{
+    color: white;
+ }
+ .party button{
+    background-color: aqua;
+    
+ }
+
+.new2024{
+    display: flex;
+    background-image:url("Vectorrr.png");
+}
+#spa{
+    color: red;
+}
+.venue{
+    text-align: center;
+    /* padding: 80px;
+    height: 198px;
+    width: 549px; */
+}
+.venue button{
+    color: white;
+    background-color: red;
+}
+.venueSection{
+    background-color: antiquewhite;
+    padding: 80px;
+    margin: 100px;
+
+}
+.three{
+    display: flex;
+    margin: 80px;
+    background-color: aliceblue;
+}
+.second{
+    border: 5px solid red;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 20px;
+}
+.first h2{
+    color: red;
+}
+.first{
+    margin: 20px;
+}
+.third h1{
+    color: red;
+    margin: 20px;
+}
+.complex{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.two{
+    display: flex;
+    height:433px ;
+    width:582.44px ;
+}
+.one{
+    height: 662.07px;
+    width: 796.64px;
+}
+.total{
+   
+}
+.functional{
+    text-align: center;
+}
+.rec{
+    /* padding-top:100px; */
+}
+.div{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    row-gap: 20px;
+    column-gap: 20px;
+
+}
+.pera{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    color: aliceblue;
+}
+.sub{
+    /* display: contents; */
+    display: flex;
+   align-content: center;
+   margin-left: 500px;
+}
+.Product{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+.input input{
+    height: 50px;
+    width: 400px;
+    border: 50%;
+}
+.end{
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+footer{
+    background-color: black;
+}
